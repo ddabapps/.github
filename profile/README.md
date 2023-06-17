@@ -6,6 +6,7 @@ This organisation contains the repositories of various DelphiDabbler application
 
 | Project | Description |
 |:--------|:------------|
+| [`compfiledate`](https://github.com/ddabapps/compfiledate) | Simple Windows command line utility for comparing the modification dates of two files. |
 | [`duse`](https://github.com/ddabapps/duse) | GUI application that lets the user choose the fully qualified Delphi unit scope name for a unit. ⭐ _Formerly known as Unit2NS_ |
 
 🗒️ More active projects will be transferred here eventually from <https://github.com/delphidabbler>.
