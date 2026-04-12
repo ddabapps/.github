@@ -22,4 +22,3 @@ The following repos have not yet had any work done on them. They have been creat
 | Project | Description |
 |:--------|:------------|
 | [`rpt`](https://github.com/ddabapps/rpt) | An idea for a template replacement program based on a cut down version of Liquid. There are copious notes in the project's [wiki](https://github.com/ddabapps/rpt/wiki). Maybe one day! |
-| [`maths-n-music`](https://github.com/ddabapps/maths-n-music) | An application to generate music from mathematical sequences. Needs more research into the generation algorithms. I'd like to do this one, but not promising anything! |
