@@ -7,11 +7,12 @@ This organisation contains the repositories of various DelphiDabbler application
 | Project | Description |
 |:--------|:------------|
 | [`bdiff`](https://github.com/ddabapps/bdiff) | Binary diff and patch programs for the Windows command line. |
-| [`bogbat`](https://github.com/ddabapps/bogbat) | A bog-basic template replacement program for the Windows coomand line. |
+| [`bogbat`](https://github.com/ddabapps/bogbat) | Bog-basic template replacement program for the Windows command line. |
 | [`compfiledate`](https://github.com/ddabapps/compfiledate) | Simple command line utility for Windows & Linux that compares the dates of two files. |
-| [`duse`](https://github.com/ddabapps/duse) | GUI application that lets the user choose the fully qualified Delphi unit scope name for a unit. ⭐ _Formerly known as Unit2NS_ |
-| [`gbg`](https://github.com/ddabapps/gbg) | A Windows command line program to create a file of a given size, filled with garbage. |
-| [`swagview`](https://github.com/ddabapps/swagview) | GUI application that enables [SWAG](https://github.com/delphidabbler/swag) database to be viewed. |
+| [`duse`](https://github.com/ddabapps/duse) | Windows GUI application that lets the user choose the fully qualified Delphi unit scope name for a unit. ⭐ _Formerly known as Unit2NS_ |
+| [`gbg`](https://github.com/ddabapps/gbg) | Windows command line program to create a file of a given size, filled with garbage. |
+| [`meany`](https://github.com/ddabapps/meany) | Windows GUI application that calculates various kinds of mathematical means. |
+| [`swagview`](https://github.com/ddabapps/swagview) | Windows GUI application that enables [SWAG](https://github.com/delphidabbler/swag) database to be viewed. |
 
 🗒️ More active projects will be transferred here eventually from <https://github.com/delphidabbler>.
 
